@@ -21,7 +21,7 @@ body{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;overflow
 .typo{display:block;font-size:10rem;font-weight:700;color:#F8F8F8;line-height:1;text-align:right}
 .main-cnt-hd h2{font-size:5rem;font-weight:300;letter-spacing:0; font-family: "Do Hyeon", sans-serif;}
 .main-cnt-hd h4{margin-top:3.125rem;font-size:1.75rem;font-weight:700;letter-spacing:.3px}
-.main-cnt-hd p{margin-top:1.625rem;font-size:1.27rem;color:#222; font-family: "Noto Sans KR", serif;}
+.main-cnt-hd p{margin-top:1.625rem;font-size:1.2rem;color:#222; font-family: "Noto Sans KR", serif;}
 .main-cnt-hd a{margin-top:3.875rem}
 .red-dot{display:inline-block;vertical-align:middle;margin-left:.15rem;font-size:100%;color:#E52F42;line-height:1}
 
@@ -944,4 +944,5 @@ p.policy-tit{margin-bottom:.625rem}
 .appinfo-slider-wrap .page em {font-size: 16px;color: #707070;}
 
 .app_c {margin-bottom: 0 }
+
 

@@ -1,4 +1,4 @@
-$('#quickMenu').hide();
+$('#qui').hide();
 $('.quick-btn, .close-quick').click(function(e){
 	e.preventDefault();
     $('#quickMenu').slideToggle(300)
