@@ -232,6 +232,8 @@ a.sect-summary{width: auto;}
     .appinfo-slider-wrap .swiper-slide .outer .inner .info-area .icon-list li+li {margin-left: 0;}
     .appinfo-slider-wrap {position: relative;}
     .sub-content .anni-p {font-weight: 400; line-height: 1.5; margin-bottom: 1rem;}
+    .sect-direction .container .sub-cnts-type-column .secondary-cnts .grid-icon-group i {width: 7rem; height: 7rem;}
+    [class^=icon-] {overflow: visible;}
 }   
 
 
